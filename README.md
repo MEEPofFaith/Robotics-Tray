@@ -1,4 +1,4 @@
-### Brought to you by Matthew Peng, Kaihon Hui, and Marc Chalouhi of the Desgin & Fabrication class of 23-24.
+### Brought to you by Matthew Peng, Kaihon Hui, and Marc Chalouhi of the Design & Fabrication class of 23-24.
 
 ---
 
