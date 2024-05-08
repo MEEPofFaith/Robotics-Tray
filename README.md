@@ -1,3 +1,7 @@
+### Brought to you by Matthew Peng, Kaihon Hui, and Marc Chalouhi of the Desgin & Fabrication class of 23-24.
+
+---
+
 # Info
 The Box Template model can be opened in Fusion 360.
 The dimensions can easily be changed in the model parameters.
