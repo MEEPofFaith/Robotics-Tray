@@ -5,7 +5,15 @@
 # Info
 The Box Template model can be opened in Fusion 360.
 The dimensions can easily be changed in the model parameters.
-![Parameters](images/img.png)
+
+Box Parmameters
+![Box Parameters](images/box-params.png)
+
+Peg Parameters
+![Peg Parameters](images/peg-params.png)
+
+There are other parameters other than the favorites that can be adjusted.
+
 The boxes we printed were done with AA04 print heads.
 We found that the tolerances weren't as nice when using AA08.
 
